@@ -1,2 +1,4 @@
 Hi This is Tarun.
-	This is for GIT Tuitorial
+	This is for GIT Tuitorial 
+	19th Aug is the day where first tuitorial started.......
+	First Tuitorial
